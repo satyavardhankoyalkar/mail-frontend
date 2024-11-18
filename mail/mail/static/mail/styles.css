@@ -1,0 +1,19 @@
+.list-group-item {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  /* Styling for read emails */
+  .read {
+    background-color: #f0f0f0; /* Light gray background for read emails */
+    color: grey;
+  }
+  
+  /* Styling for unread emails */
+  .unread {
+    background-color: #ffffff; /* White background for unread emails */
+    font-weight: bold;
+  }
